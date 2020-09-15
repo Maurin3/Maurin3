@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Maurin3 !
 
-I'm a Technical Consultant/Client Solution Developer at <a href="http://www.odoo.com"><img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_tiny.png" height="15" alt="Odoo"/></a>. I also dev for myself at free time to get better and make easier my work. Sometimes, you can see me playing video games on Twitch or on Youtube. (Yep, I'm a gamer too :wink:)
+I'm a Technical Consultant/Client Solution Developer in the PS Custom Upgrade Team at <a href="http://www.odoo.com"><img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_tiny.png" height="15" alt="Odoo"/></a>. I also dev for myself at free time to get better and make easier my work. Sometimes, you can see me playing video games on Twitch or on Youtube. (Yep, I'm a gamer too :wink:)
 
 
 <p align="center">
