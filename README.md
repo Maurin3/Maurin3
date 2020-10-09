@@ -10,5 +10,5 @@ I'm a Technical Consultant/Client Solution Developer in the PS Custom Upgrade Te
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico" alt="Youtube" height="15"/> <a href="https://youtube.com/c/Maurin3">Maurin3</a>
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <img src="https://static.twitchcdn.net/assets/favicon-16-2d5d1f5ddd489ee10398.png" alt="Twitch" height="15"/> <a href="https://youtube.com/c/Maurin3">Maurin3</a>
+    <img src="https://static.twitchcdn.net/assets/favicon-16-2d5d1f5ddd489ee10398.png" alt="Twitch" height="15"/> <a href="https://twitch.tv/Maurin3">Maurin3</a>
 </p>
