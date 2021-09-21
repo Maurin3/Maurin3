@@ -44,17 +44,17 @@ Tools that I use frequently :
 </p></details>
 
 ---
+<p align="center">You can follow me here: </p>
 
-<ul align="center">
-    <p align="center">You can follow me here: </p>
-    <a href="https://www.twitch.tv/maurin3"><img alt="Twitch" src="./images/twitch_logo.png" height="50"/></a>
-    <a href="https://twitter.com/Maurin3_1994"><img alt="Twitter" src="./images/twitter_logo.png" height="50"/></a>
-    <a href="https://www.youtube.com/c/Maurin3"><img alt="Youtube" src="./images/youtube_logo.png" height="50"/></a>
-    <a href="https://www.facebook.com/Maurin3YT"><img alt="Facebook" src="./images/facebook_logo.png" height="50"/></a>
-    <a href="https://www.instagram.com/maurin3_1994"><img alt="Instagram" src="./images/instagram_logo.png" height="50"/></a>
-</ul>
+<p align="center">
+    <a href="https://www.twitch.tv/maurin3" align="center"><img alt="Twitch" src="./images/twitch_logo.png" height="50"/></a> &nbsp;
+    <a href="https://twitter.com/Maurin3_1994" align="center"><img alt="Twitter" src="./images/twitter_logo.png" height="50"/></a> &nbsp;
+    <a href="https://www.youtube.com/c/Maurin3"><img alt="Youtube" src="./images/youtube_logo.png" height="50"/></a> &nbsp;
+    <a href="https://www.facebook.com/Maurin3YT"><img alt="Facebook" src="./images/facebook_logo.png" height="50"/></a> &nbsp;
+    <a href="https://www.instagram.com/maurin3_1994"><img alt="Instagram" src="./images/instagram_logo.png" height="50"/></a> &nbsp;
+</p>
+
+---
 
 [1]: http://www.odoo.com
 [2]: https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_tiny.png
-
----
