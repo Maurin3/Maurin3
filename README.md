@@ -54,7 +54,5 @@ Tools that I use frequently :
     <a href="https://www.instagram.com/maurin3_1994"><img alt="Instagram" src="./images/instagram_logo.png" height="50"/></a> &nbsp;
 </p>
 
----
-
 [1]: http://www.odoo.com
 [2]: https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_tiny.png
