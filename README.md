@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/DDYvdi4RY5wze/giphy.gif" align="right" width="75"/>
 
-I'm a Technical Consultant/Client Solution Developer in the PS Custom Upgrade Team at [![Odoo logo][2]][1] . I also dev for myself at free time to get better and make easier my work. Sometimes, you can see me playing video games on Twitch or on Youtube. (Yep, I'm a gamer too 😉).
+I'm a Technical Consultant/Client Solution Developer in the PS Custom Upgrade Team at [![Odoo logo][2]][1] .I also dev for myself at free time to get better and make easier my work. Sometimes, you can see me playing video games on Twitch or on Youtube. (Yep, I'm a gamer too 😉).
 
 ---
 
@@ -27,7 +27,7 @@ The PS Custom Upgrade Team is the team that will upgrade a customer database whi
 Tools that I use frequently :
 * Visual Studio Code with some extensions
 * ZSH
-* Git (lol)
+* Git :rofl:
 
 
 <details><summary>Click here to see the VSCode extensions</summary><p>
