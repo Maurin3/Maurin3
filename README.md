@@ -22,6 +22,9 @@ If you need help with [![Odoo logo][2]][1] or you found a bug, go to [the suppor
 
 The PS Custom Upgrade Team is the team that will upgrade a customer database which has customisations done by the PS Technical Team and covered by maintenance fees.
 
+![odoo_banner](./images/odoo_banner_dark.png#gh-dark-mode-only)
+![odoo_banner](./images/odoo_banner_light.png#gh-light-mode-only)
+
 ---
 
 Tools that I use frequently :
