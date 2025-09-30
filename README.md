@@ -4,7 +4,7 @@
 
 # Hi there <img src="./images/hi.gif" width="20"/>, I'm Maurin3!
 
-I'm a technical consultant/client solution developer for Upgrade Services at Odoo. I also dev for myself in my free time to get better and make easier my work. Sometimes, you can see me playing video games on Twitch or on Youtube. (Yep, I'm a gamer too 😉).
+I'm a Software Developer for Upgrade Services at Odoo. I also dev for myself in my free time to get better and make easier my work. Sometimes, you can see me playing video games on Twitch or on Youtube. (Yep, I'm a gamer too 😉).
 
 ---
 
