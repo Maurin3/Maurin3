@@ -1,5 +1,3 @@
----
-
 ![banner](./images/banner.png)
 
 # Hi there <img src="./images/hi.gif" width="20"/>, I'm Maurin3!
@@ -22,5 +20,3 @@ The Upgrade Services will upgrade a customer database from one version to anothe
 
 ![odoo_banner](./images/odoo_banner_dark.png#gh-dark-mode-only)
 ![odoo_banner](./images/odoo_banner_light.png#gh-light-mode-only)
-
----
